@@ -1,0 +1,12 @@
+Projede Kullanılan Ekipmanların Fiyatları
+
+Su Seviye Sensörü : 10 tl
+Şamandıra : 57 tl
+2 x Motor Sürücü : 79 tl x 2 : 160 tl
+2 x Peristaltik Pompa : 281 tl x 2 : 562 tl
+Solenoid Su Valfi : 151 tl
+LCD Ekran : 79 tl
+Arduino UNO : 160 tl
+Ph Sensörü : 2300 tl
+Direnç + Potansiyometre + Kablo : 50 tl
+Breadboard : 50 tl
